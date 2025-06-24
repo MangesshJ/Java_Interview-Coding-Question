@@ -11,9 +11,5 @@ public class _2_Iterate_String {
 			finalWord = ch + finalWord;
 		}
 		System.out.println(finalWord);
-		
-		
-// 2. 		
-
 	}
 }
