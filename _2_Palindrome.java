@@ -1,6 +1,6 @@
 package main;
 
-public class _2_Iterate_String {
+public class _2_Palindrome {
 	public static void main(String[] args) {
 			
 		String given_Word = "Hello";
